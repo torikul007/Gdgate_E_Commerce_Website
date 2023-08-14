@@ -1,0 +1,85 @@
+.white-bg {
+    background-color: white;
+  }
+.bg-light {
+    background-color:white;
+}
+p{
+    text-align: justify;
+
+}
+.backgeound{
+    background-image: url(hot-gadgets/bg-1.png);
+}
+ 
+
+.carousel_back2{
+   
+    background-image: url(hot-gadgets/bg-2.png);
+    background-position: 15% 100%;
+    background-repeat: no-repeat;
+    
+
+}
+.buy-now{
+    background-color: black;
+    padding: 8px 18px ;
+    border-radius: 10px;
+    color: white;
+
+}
+.carousel-indicators li{
+    background-color:yellow;
+    background-image: linear-gradient(gold , yellow );
+    height: 9px;
+    width: 25px;
+    border-radius: 40px;
+
+}
+.mobile{
+     text-align: center;
+    
+     
+}
+.nav-mobile{
+padding-right: 5%;
+}
+.top-contain h5{
+    color:orange;
+
+}
+.card-body{
+
+  box-shadow: inset;
+}
+footer{
+     text-align: center;
+}
+.card {
+    border: none;
+    box-shadow: 1px 1px 10px #80808080;
+    border-radius: 10px;
+  }
+  
+  .card-footer {
+    background-color: white;
+    border-top: none;
+    padding-bottom: 1.5rem;
+  }
+  
+  /********Categories*********/
+  
+  .underline-block {
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ff8206, #ffff00);
+  }
+  
+  #perfume-cat, #shoe-cat{
+      border-radius: 15px 5px 30px 5px;
+  }
+  
+  #bag-cat{
+      border-radius: 5px 15px 5px 30px;
+  }
